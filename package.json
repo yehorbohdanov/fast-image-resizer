@@ -1,0 +1,24 @@
+{
+  "name": "pretty-fast-image-resizer",
+  "version": "2.3.0",
+  "description": "A lightweight, dependency-rich library for fast and efficient image resizing in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "browser",
+    "canvas"
+  ],
+  "author": "Igor Lushenko",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-load-image": "^5.16.0",
+    "blob-util": "^2.0.2",
+    "file-saver": "^2.0.5",
+    "mime-types": "^2.1.32",
+    "pica": "^8.0.0"
+  }
+}
